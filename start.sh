@@ -6,5 +6,3 @@ if [ ! -d "cache" ]; then
 else
     echo -e "Папка cache уже существует"
 fi
-
-echo -e "Привет"
